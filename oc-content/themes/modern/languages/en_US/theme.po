@@ -1,0 +1,854 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Modern Theme 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-19 12:59+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: carlos <carlos@osclass.org>\n"
+"Language-Team: Osclass <info@osclass.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n !=1;\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: /Users/ssuareza/projects/theme-modern/modern\n"
+
+#: /Users/ssuareza/projects/theme-modern/modern/404.php:34
+msgid "Page not found"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/alert-form.php:6
+msgid "You have sucessfully subscribed to the alert"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/alert-form.php:7
+msgid "Invalid email address"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/alert-form.php:8
+msgid "There was a problem with the alert"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/alert-form.php:39
+msgid "Subscribe to this search"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/alert-form.php:55
+msgid "Subscribe now"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/contact.php:35
+msgid "Contact us"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/contact.php:41
+msgid "Subject"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/contact.php:41
+#: /Users/ssuareza/projects/theme-modern/modern/contact.php:43
+#: /Users/ssuareza/projects/theme-modern/modern/item-contact.php:52
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:228
+msgid "optional"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/contact.php:42
+#: /Users/ssuareza/projects/theme-modern/modern/item-contact.php:53
+#: /Users/ssuareza/projects/theme-modern/modern/item-send-friend.php:52
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:230
+msgid "Message"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/contact.php:43
+#: /Users/ssuareza/projects/theme-modern/modern/item-contact.php:49
+#: /Users/ssuareza/projects/theme-modern/modern/item-send-friend.php:47
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:163
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:226
+msgid "Your name"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/contact.php:44
+#: /Users/ssuareza/projects/theme-modern/modern/item-contact.php:50
+#: /Users/ssuareza/projects/theme-modern/modern/item-send-friend.php:48
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:227
+msgid "Your e-mail address"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/contact.php:47
+#: /Users/ssuareza/projects/theme-modern/modern/item-send-friend.php:55
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:168
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:250
+msgid "Send"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/footer.php:28
+msgid "Contact"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/footer.php:35
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"https://osclass-classifieds.com/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/footer.php:48
+msgid "Your search must be at least three characters long"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/functions.php:53
+msgid "Theme settings updated correctly"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/functions.php:60
+msgid "The logo image has been uploaded correctly"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/functions.php:62
+#: /Users/ssuareza/projects/theme-modern/modern/functions.php:65
+msgid "An error has occurred, please try again"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/functions.php:72
+msgid "The logo image has been removed"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/functions.php:74
+msgid "Image not found"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/functions.php:81
+msgid "Header logo"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/functions.php:82
+msgid "Theme settings"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/functions.php:100
+msgid "ie. PHP Programmer"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/head.php:41
+msgid "No file selected"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/head.php:42
+msgid "Choose File"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:32
+#, php-format
+msgid "Hi %s"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:33
+msgid "My account"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:34
+msgid "Logout"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:38
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:206
+msgid "Login"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:41
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:207
+msgid "Register for a free account"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:47
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:173
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:216
+msgid "E-mail"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:49
+msgid "Password"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:51
+msgid "Remember me"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:52
+msgid "Log in"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:54
+msgid "Forgot password?"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:64
+msgid "Language"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/header.php:77
+msgid "Publish your ad for free"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/inc.search.php:54
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:108
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:116
+msgid "Select a category"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/inc.search.php:56
+msgid "Search"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-contact.php:35
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:111
+msgid "Contact seller"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-contact.php:43
+msgid "To (seller)"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-contact.php:44
+#: /Users/ssuareza/projects/theme-modern/modern/item-send-friend.php:42
+msgid "Listing"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-contact.php:52
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:228
+msgid "Phone number"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-contact.php:55
+msgid "Send message"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:96
+msgid "Update your listing"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:105
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:113
+msgid "General Information"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:107
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:115
+msgid "Category"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:115
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:124
+msgid "Price"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:123
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:131
+msgid "Photos"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:132
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:137
+msgid "Add new photo"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:137
+#: /Users/ssuareza/projects/theme-modern/modern/main.php:135
+msgid "Location"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:139
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:144
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:84
+msgid "Country"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:143
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:148
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:85
+msgid "Region"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:147
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:152
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:86
+msgid "City"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:151
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:87
+msgid "City area"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:155
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:160
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:88
+msgid "Address"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:167
+msgid "Update"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-edit.php:168
+msgid "Cancel"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:106
+msgid "Publish a listing"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:142
+msgid "Listing Location"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:156
+msgid "City Area"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:167
+msgid "Seller's information"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:169
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:211
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:213
+msgid "Name"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:180
+msgid "Show e-mail on the listing page"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-post.php:193
+msgid "Publish"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-send-friend.php:35
+msgid "Send to a friend"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-send-friend.php:50
+msgid "Your friend's name"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item-send-friend.php:51
+msgid "Your friend's e-mail address"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:60
+msgid "Edit item"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:65
+msgid "Mark as"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:67
+msgid "spam"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:68
+msgid "misclassified"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:69
+msgid "duplicated"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:70
+msgid "expired"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:71
+msgid "offensive"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:80
+msgid "Published date"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:81
+msgid "Modified date"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:115
+msgid "Share"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:121
+msgid "Useful information"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:123
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:124
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:125
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:126
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:132
+msgid "Comments"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:139
+msgid "by"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:143
+msgid "Delete your comment"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:143
+msgid "Delete"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:155
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:164
+msgid "Your e-mail"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:166
+msgid "Title"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:167
+msgid "Comment"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:180
+msgid "Image"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:192
+msgid "Contact publisher"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:195
+msgid "The listing is expired. You can't contact the publisher."
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:199
+msgid "It's your own listing, you can't contact the publisher."
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:203
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:219
+msgid "Tel"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:244
+msgid "Enter the words above"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/item.php:246
+msgid "Help"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/main.php:94
+msgid "Latest Listings"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/main.php:96
+msgid "No Latest Listings"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/main.php:126
+msgid "See all offers"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search.php:194
+msgid "Sort by"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search.php:213
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search.php:241
+msgid "Your search"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search.php:256
+msgid "Show only"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search.php:261
+msgid "Show only listings with pictures"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search.php:269
+msgid "Min"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search.php:271
+msgid "Max"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search.php:308
+msgid "Apply"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search.php:326
+msgid "Selected"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search.php:327
+msgid "Nothing selected, input was"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/search_gallery.php:41
+#: /Users/ssuareza/projects/theme-modern/modern/search_list.php:41
+msgid "Sponsored ad"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-alerts.php:32
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_email.php:62
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_password.php:33
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_username.php:82
+#: /Users/ssuareza/projects/theme-modern/modern/user-dashboard.php:33
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:33
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:37
+msgid "User account manager"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-alerts.php:37
+msgid "Your alerts"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-alerts.php:39
+msgid "You do not have any alerts yet"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-alerts.php:43
+msgid "Alert"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-alerts.php:43
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-alerts.php:43
+msgid "Delete this alert"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-alerts.php:49
+#: /Users/ssuareza/projects/theme-modern/modern/user-dashboard.php:49
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:52
+msgid "Publication date"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-alerts.php:57
+msgid "Listings"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_email.php:68
+msgid "Change your e-mail"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_email.php:75
+msgid "Current e-mail"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_email.php:79
+msgid "New e-mail"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_password.php:39
+msgid "Change your password"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_password.php:45
+msgid "Current password"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_password.php:49
+#: /Users/ssuareza/projects/theme-modern/modern/user-forgot_password.php:41
+msgid "New password"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_password.php:53
+#: /Users/ssuareza/projects/theme-modern/modern/user-forgot_password.php:45
+msgid "Repeat new password"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_username.php:40
+msgid "Username: this field is required"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_username.php:65
+msgid "The username is available"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_username.php:67
+msgid "The username is NOT available"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_username.php:88
+msgid "Change your username"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_username.php:95
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:74
+msgid "Username"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-change_username.php:99
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-dashboard.php:39
+#, php-format
+msgid "Listings from %s"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-dashboard.php:41
+msgid "No listings have been added yet"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-dashboard.php:52
+msgid "View listing"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-dashboard.php:54
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:56
+msgid "Edit"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-dashboard.php:57
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:61
+msgid "Activate"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-forgot_password.php:33
+msgid "Recover your password"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-forgot_password.php:48
+msgid "Change password"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:39
+msgid "Your listings"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:39
+msgid "Post a new listing"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:41
+msgid "You don't have any listings yet"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:47
+msgid "Active"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:47
+msgid "Inactive"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:48
+msgid "Premium"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:49
+msgid "Spam"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-items.php:58
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-login.php:33
+msgid "Access to your account"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:43
+msgid "Update your profile"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:78
+msgid "Modify username"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:86
+msgid "Modify e-mail"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:86
+msgid "Modify password"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:90
+msgid "User type"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:94
+msgid "Cell phone"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:98
+msgid "Phone"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:122
+#: /Users/ssuareza/projects/theme-modern/modern/user-public-profile.php:70
+msgid "Website"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:130
+msgid "Delete my account"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:137
+msgid "Delete account"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-profile.php:140
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-public-profile.php:59
+#, php-format
+msgid "%s's profile"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-public-profile.php:65
+msgid "Profile"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-public-profile.php:67
+msgid "Full name"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-public-profile.php:71
+msgid "User Description"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-public-profile.php:75
+msgid "Latest listings"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-recover.php:40
+msgid "Send me a new password"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-register.php:36
+msgid "Register an account for free"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-register.php:45
+msgid "Re-type password"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-register.php:47
+msgid "Passwords don't match"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/user-register.php:52
+msgid "Create"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:8
+msgid "Preview"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:15
+msgid "Remove logo"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:23
+msgid "No logo has been uploaded yet"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:26
+msgid "Upload logo"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:28
+msgid "The preferred size of the logo is 600x100."
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:30
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:38
+msgid "Logo image (png,gif,jpg)"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:44
+msgid "Upload"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:53
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:54
+msgid "Osclass can't upload the logo image from the administration panel."
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:55
+msgid "Please make the aforementioned image folder writable."
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/header.php:60
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/settings.php:12
+msgid "I would like to contribute to the development of Osclass with a donation of"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/settings.php:17
+msgid "Custom"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/settings.php:18
+msgid "Donate"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/settings.php:28
+msgid "Search placeholder"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/settings.php:32
+msgid "Footer link"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/settings.php:34
+msgid "I want to help Osclass by linking to <a href=\"https://osclass-classifieds.com/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/settings.php:39
+msgid "Default logo"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/settings.php:41
+msgid "Show default logo in case you didn't upload one previously"
+msgstr ""
+
+#: /Users/ssuareza/projects/theme-modern/modern/admin/settings.php:45
+msgid "Save changes"
+msgstr ""
+
