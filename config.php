@@ -1,12 +1,12 @@
 <?php
 // MySql database host
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'us-cluster-east-01.k8s.cleardb.net');
 
 // MySql database username
-define('DB_USER', 'root');
+define('DB_USER', 'b9f11d2e6a544f');
 
 // MySql database password
-define('DB_PASSWORD', 'Habesha@list');
+define('DB_PASSWORD', '8e2c1fc2');
 
 // MySql database name
 define('DB_NAME', 'habesha_list');
